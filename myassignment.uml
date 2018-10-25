@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.myassignment</OriginalElement>
+  <nodes>
+    <node x="26.0" y="0.0">com.myassignment.Ass1</node>
+    <node x="13.5" y="384.0">com.myassignment.MainTest</node>
+    <node x="0.0" y="192.0">com.myassignment.ReadWebPage</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.myassignment.ReadWebPage" target="com.myassignment.Ass1">
+      <point x="0.0" y="-71.0" />
+      <point x="0.0" y="71.0" />
+    </edge>
+    <edge source="com.myassignment.MainTest" target="com.myassignment.ReadWebPage">
+      <point x="0.0" y="-37.5" />
+      <point x="0.0" y="71.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="80.0" y="249.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+    <Category>Constructors</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
